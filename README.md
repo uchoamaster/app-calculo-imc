@@ -18,7 +18,8 @@
 
 # 3 P A S S O
 ## Abra seu cmd (terminal) e digite:
-#### expo init tarefas
+#### expo init app-imc (nome do seu app/projeto)
+##### irá abrir uma tela mostrando as opções de como quer que o react crie seu app, em branco com alguma coisa , normalmente crie em branco ( blank)
 
 # 4 P A S S O
 * Volte para seu cmd e digite:
